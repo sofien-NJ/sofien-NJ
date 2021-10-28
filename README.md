@@ -1,6 +1,4 @@
 
-<h1 align="center">Welcome To My Github Profile</h1>
-
 <div align="center">
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sofien-NJ}/count.svg" /></p> 
 </div>
@@ -25,7 +23,7 @@
     <img align="left" alt="Sofien njeim | YouTube" width="150" src="https://github.com/fawzirjili/fawzirjili/blob/main/youtube.gif?raw=true" />
   </a><a></a>
    <a href="https://twitter.com/SNjeimi" target="_blank">
-    <img align="left" alt="Sofien njeim | YouTube" width="150" src="https://github.com/sofien-NJ/sofien-NJ/blob/main/twitter.gif?raw=true" />
+    <img align="left" alt="Sofien njeim | Twitter" width="100" src="https://github.com/sofien-NJ/sofien-NJ/blob/main/twitter.gif?raw=true" />
   </a>
 </section>
 
