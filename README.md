@@ -2,13 +2,17 @@
 <h1 align="center">welcome to my github profile</h1>
 
 
-<p align="center"><a target="_blank" href="https://camo.githubusercontent.com/f890eeeb93dc4ab…d652f7b6661777a69726a696c697d2f636f756e742e737667"></p>
-  <p>
-  <img align="center" src="https://camo.githubusercontent.com/f890eeeb93dc4ab374d9a19971a18c47caa0c639459b46a2caff53ad27a36d0f/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b6661777a69726a696c697d2f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/{fawzirjili}/count.svg" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true"><img align="" height="120px" src="https://github.com/fawzirjili/fawzirjili/raw/main/Fractal_tree.gif?raw=true" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/fawzirjili/fawzirjili/8b8e2e6eef80d7a96a73e01163056637da762860/matrix.svg"><img align="" height="120px" src="https://raw.githubusercontent.com/fawzirjili/fawzirjili/8b8e2e6eef80d7a96a73e01163056637da762860/matrix.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true"><img align="" height="120px" src="https://github.com/fawzirjili/fawzirjili/raw/main/Fractal_tree.gif?raw=true" style="max-width: 100%;"></a>
+<!-- START Visitor Count -->
+<div align="center">
+<h2 align="centre">Visitors Count</h2>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fawzirjili}/count.svg" /></p> 
+<br>
+</div>
+<p align="center">
+<img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /><img align="" height='120px' src="https://raw.githubusercontent.com/fawzirjili/fawzirjili/8b8e2e6eef80d7a96a73e01163056637da762860/matrix.svg" /><img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" />
 </p>
+<hr>
+<!-- End Visitor Count -->
 <hr>
 </hr>
 <h3 align="center">Contact with me:</h3>
