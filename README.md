@@ -23,6 +23,9 @@
   </a><a></a>
    <a href="https://www.youtube.com/channel/UCC1Iq-Vdq4rZL5exjZlt-ZQ" target="_blank">
     <img align="left" alt="Sofien njeim | YouTube" width="200" src="https://github.com/fawzirjili/fawzirjili/blob/main/youtube.gif?raw=true" />
+  </a><a></a>
+   <a href="https://twitter.com/SNjeimi" target="_blank">
+    <img align="left" alt="Sofien njeim | YouTube" width="200" src="https://github.com/sofien-NJ/sofien-NJ/blob/main/twitter.gif?raw=true" />
   </a>
 </section>
 
