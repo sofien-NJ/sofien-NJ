@@ -11,7 +11,7 @@
 </p>
 <!-- End Visitor Count -->
 
-<section>
+<section align="center">
 <a href="https://www.linkedin.com/in/sofien-nje%C3%AFmi-b75a7818a/" target="_blank">
    <img align="left" alt="Sofien njeimi | Linkedin" width="150px" src="https://github.com/fawzirjili/fawzirjili/blob/main/linkedinj.gif?raw=true" />
   </a>
