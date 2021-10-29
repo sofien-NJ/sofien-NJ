@@ -1,15 +1,11 @@
-<div>
-<a href="/">
-    <img align="left" alt="Sofien njeim | Earth" width="120" src="https://github.com/sofien-NJ/sofien-NJ/blob/main/earth.gif?raw=true" />
-  </a>
-</div>
+
 <div align="center">
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sofien-NJ}/count.svg" /></p> 
 </div>
 <!-- Visitor Count -->
 <p align="center">
 <p align="center">
-<img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /><img align="" height='120px' src="https://raw.githubusercontent.com/fawzirjili/fawzirjili/8b8e2e6eef80d7a96a73e01163056637da762860/matrix.svg" /><img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" />
+<img align="" height="120px" src="https://github.com/sofien-NJ/sofien-NJ/blob/main/earth.gif?raw=true" /><img align="" height='120px' src="https://raw.githubusercontent.com/fawzirjili/fawzirjili/8b8e2e6eef80d7a96a73e01163056637da762860/matrix.svg" /><img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" />
 </p>
 <!-- End Visitor Count -->
 
