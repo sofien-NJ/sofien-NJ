@@ -5,7 +5,7 @@
 <!-- Visitor Count -->
 <p align="center">
 <p align="center">
-<img align="" height="110px" src="https://github.com/sofien-NJ/sofien-NJ/blob/main/earth.gif?raw=true" /><img align="" height='110px' src="https://raw.githubusercontent.com/fawzirjili/fawzirjili/8b8e2e6eef80d7a96a73e01163056637da762860/matrix.svg" /><img align="" height='110px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" />
+<img align="" height="100px" src="https://github.com/sofien-NJ/sofien-NJ/blob/main/earth.gif?raw=true" /><img align="" height='100px' src="https://raw.githubusercontent.com/fawzirjili/fawzirjili/8b8e2e6eef80d7a96a73e01163056637da762860/matrix.svg" /><img align="" height='100px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" />
 </p>
 <!-- End Visitor Count -->
 <div align="center">
