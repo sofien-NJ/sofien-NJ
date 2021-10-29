@@ -1,4 +1,8 @@
-
+<div>
+<a href="/">
+    <img align="left" alt="Sofien njeim | Earth" width="120" src="https://github.com/sofien-NJ/sofien-NJ/blob/main/earth.gif?raw=true" />
+  </a>
+</div>
 <div align="center">
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sofien-NJ}/count.svg" /></p> 
 </div>
