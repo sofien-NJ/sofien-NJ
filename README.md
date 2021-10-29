@@ -11,19 +11,19 @@
 <div align="center">
 <section>  
 <a href="https://www.linkedin.com/in/sofien-nje%C3%AFmi-b75a7818a/" target="_blank">
-   <img align="center" alt="Sofien njeimi | Linkedin" width="100px" src="https://github.com/fawzirjili/fawzirjili/blob/main/linkedinj.gif?raw=true" />
+   <img align="center" alt="Sofien njeimi | Linkedin" width="80px" src="https://github.com/fawzirjili/fawzirjili/blob/main/linkedinj.gif?raw=true" />
    </a>
   <a href="https://www.facebook.com/sofien.njeimi.3/" target="_blank">
-   <img align="center" alt="Sofien njeim | Facebook" width="100px" src="https://github.com/fawzirjili/fawzirjili/blob/main/facebookj.gif?raw=true" />
+   <img align="center" alt="Sofien njeim | Facebook" width="80px" src="https://github.com/fawzirjili/fawzirjili/blob/main/facebookj.gif?raw=true" />
 </a>
   <a href="https://www.instagram.com/fuckinginstalife/" target="_blank">
-    <img align="center" alt="Sofien njeim | Instagram" width="100px"src="https://github.com/fawzirjili/fawzirjili/blob/main/instagram-logo.gif?raw=true" />
+    <img align="center" alt="Sofien njeim | Instagram" width="80px" src="https://github.com/fawzirjili/fawzirjili/blob/main/instagram-logo.gif?raw=true" />
   </a>
    <a href="https://www.youtube.com/channel/UCC1Iq-Vdq4rZL5exjZlt-ZQ" target="_blank">
-    <img align="center" alt="Sofien njeim | YouTube" width="100" src="https://github.com/fawzirjili/fawzirjili/blob/main/youtube.gif?raw=true" />
+    <img align="center" alt="Sofien njeim | YouTube" width="80px" src="https://github.com/fawzirjili/fawzirjili/blob/main/youtube.gif?raw=true" />
   </a>
    <a href="https://twitter.com/SNjeimi" target="_blank">
-    <img align="center" alt="Sofien njeim | Twitter" width="115" src="https://github.com/sofien-NJ/sofien-NJ/blob/main/twitter.gif?raw=true" />
+    <img align="center" alt="Sofien njeim | Twitter" width="100px" src="https://github.com/sofien-NJ/sofien-NJ/blob/main/twitter.gif?raw=true" />
   </a>
 </section>
  </div>
