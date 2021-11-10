@@ -20,7 +20,7 @@
     <img align="center" alt="Sofien njeim | Instagram" width="60px" src="https://github.com/fawzirjili/fawzirjili/blob/main/instagram-logo.gif?raw=true" />
   </a>
    <a href="https://www.youtube.com/channel/UCC1Iq-Vdq4rZL5exjZlt-ZQ" target="_blank">
-    <img align="center" alt="Sofien njeim | YouTube" width="60px" src="https://github.com/fawzirjili/fawzirjili/blob/main/youtube.gif?raw=true" />
+    <img align="center" alt="Sofien njeim | YouTube" width="80px" src="https://github.com/fawzirjili/fawzirjili/blob/main/youtube.gif?raw=true" />
   </a>
    <a href="https://twitter.com/SNjeimi" target="_blank">
     <img align="center" alt="Sofien njeim | Twitter" width="80px" src="https://github.com/sofien-NJ/sofien-NJ/blob/main/twitter.gif?raw=true" />
